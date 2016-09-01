@@ -16,7 +16,7 @@
 title: 点滴身边
 email: zhangtao@ddshenbian.com
 description: > # this means to ignore newlines until "baseurl:"
-	希望点滴身边的各位前端同学能在技术上有所成就
+  希望点滴身边的各位前端同学能在技术上有所成就
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
